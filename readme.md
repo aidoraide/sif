@@ -8,4 +8,5 @@ sentence_embeddings.py <br>
 train_model.py <br>
 
 To see which tags are most frequent run get_tag_counts.py
+
 To have a baseline to compare your classifiers to run dumb_algorithm.py to see how it performs.
