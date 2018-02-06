@@ -2,8 +2,8 @@ Download the data used here:
 https://www.kaggle.com/stackoverflow/pythonquestions/downloads/pythonquestions.zip/1
 
 The pipeline to classify data is:
-trim_data.py
-word_weights.py
+trim_data.py <br>
+word_weights.py <br>
 sentence_embeddings.py
 train_model.py
 
