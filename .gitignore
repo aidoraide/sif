@@ -1,0 +1,5 @@
+*.pdf
+*.pkl
+*.json
+*.csv
+__pycache__
